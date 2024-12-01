@@ -25,7 +25,7 @@ To start using the application, follow these steps:
 
 **NOTE:** The selected option will be highlighted in light blue
 
-To Create a New Vehicle
+#### To Create a New Vehicle
 - After highlighting the "Create a new vehicle" option and clicking the enter key, you will be provided with a new set of options.
 - You will see a list with options for "Car", "Truck", and "Motorbike".
 - Use the "Up" or "Down" keys to select the car type that you would like to use.
@@ -38,7 +38,7 @@ To Create a New Vehicle
   - Enter Top Speed
  - All information has now been saved for the new vehicle.  You are now at step 3 of "To Select an Existing Option".  Please use the instructions below for viewing information for the selected car of performing actions with it.
 
-To Select an Existing Option:
+#### To Select an Existing Option:
 - After highlighting the "Select an existing vehicle" option and clicking the enter key, you will be provided with a new set of options.
 - You will see a list of existing vehicles that will display the Vehicle Identification Number (VIN), the make, and the model.
 - Use the "Up" or "Down" keys to select the existing vehicle that you would like to use.
@@ -57,4 +57,8 @@ To Select an Existing Option:
   - Exit - Exits the program entirely.
 
 ## FAQs
-
+- Which vehicles can tow other vehicles? Only trucks are available to tow other vehicles.
+- What happens if I select a vehicle that is not a truck and select the tow option? You will receive a message stating "The selected vehicle is not a truck and cannot be towed."
+- Which vehicles can perform wheelies? Only motorbikes can perform a wheelie.
+- What happens when I select a vehicle that is not a motorbike to perform a wheelie? You will receive a message stating "The selected vehicle is not a motorbike and cannot perform a wheelie."
+- Can I edit an existing vehicle? No.  In this current version there is not an option to edit an existing vehicle.
