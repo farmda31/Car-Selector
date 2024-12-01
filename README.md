@@ -5,15 +5,6 @@ The Car-Selector application is a Command Line Interface (CLI) that can be used 
 These vehicles include Cars, Trucks, and Motorbikes.  For each of the vehicle types, users can start the vehicles, accelerate, decelerate, turn left or right, stop the vehicle, and go in reverse.
 Some vehicles also have special functions like how the Trucks can be used to tow other vehicles and the Motorbikes can do wheelies.
 
-Table of Contents
-
--[Licensing](##licensing)
--[Installation](##installation)
--[How to use it](##how-to-use-it)
--[To Create a New Vehicle](####to-create-a-new-vehicle)
--[To Select an Existing Option](####to-select-an-existing-option)
--[FAQ](##FAQ)
-
 ## Licensing
 There are no licenses required to use this application.  
 
