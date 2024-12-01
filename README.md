@@ -56,6 +56,9 @@ To start using the application, follow these steps:
   - Wheelie - This will allow the user to do a wheelie on a motorbike.  Currently only motorbikes can do a wheelie.
   - Select or create another vehicle - Allows the user to either select a different vehicle or create a new vehicle.
   - Exit - Exits the program entirely.
+ 
+## Video Walkthrough
+The video walkthrough is located at https://github.com/farmda31/Car-Selector/blob/main/Car_selector_demo.mp4.
 
 ## FAQs
 - Which vehicles can tow other vehicles? Only trucks are available to tow other vehicles.
